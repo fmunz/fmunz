@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fmunz here
-- 👀 I’m interested in big & st(r)eaming data and clouds
-- 🌱 I’m currently learning AI/ML 
+- 👋 Hi, @fmunz here
+- 👀 interested in big & st(r)eaming data and clouds
+- 🌱 AI/ML products and tooling, MLflow FTW 
 - 📫 How to reach me ... twitter @frankmunz
 
 <!---
